@@ -1,67 +1,86 @@
 {
     "Aucas": [
       4,      
-      2
+      2,
+      1
     ],
     "Barcelona": [
       11,
-      8
+      8,
+      7
     ],
     "Cumbayá": [
       16,      
-      15
+      15,
+      16
     ],
     "D.Cuenca": [
       8,
-      3
+      3,
+      5
+
     ],
     "Delfín": [
       7,      
-      5
+      5,
+      2
     ],
     "Emelec": [
       1,      
+      6,
       6
+
     ],
     "Gualaceo": [
       10,      
-      11
+      11,
+      12
     ],
     "Guayaquil City": [
       12,    
+      9,
       9
     ],
     "Independiente": [
       2,    
-      1
+      1,
+      4
     ],
     "LDU Quito": [
       6,     
-      4
+      4,
+      13
     ],
     "Macará": [
       13,    
-      13
+      13,
+      14
     ],
     "Muschuc Runa": [
       9,     
-      7
+      7,
+      8
     ],
     "Orense": [
       15,    
-      14
+      14,
+      11
     ],
     "Técnico U.": [
       14,      
-      16
+      16,
+      15
     ],
     "U. Católica": [
       5,     
-      12
+      12,
+      3
     ],
     "9 de octubre": [
       3,   
+      10,
       10
+
     ]
    
   }
